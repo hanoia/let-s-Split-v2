@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name alps)(type KiCad)(uri "D:\\github\\pcb-master\\ICED - Left\\prettylib")(options "")(descr ""))
+  (lib (name flipalps)(type KiCad)(uri /home/hanoi/src/let-s-Split-v2/lets_split/flipalps.pretty)(options "")(descr ""))
+  (lib (name Jumper)(type KiCad)(uri /home/hanoi/kicad_lib/Jumper.pretty)(options "")(descr ""))
 )
